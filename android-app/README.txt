@@ -1,0 +1,1 @@
+Projeto Android (Kotlin) - Estrutura base com Foreground Service.
